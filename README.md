@@ -17,4 +17,4 @@ ENV STDOUT=no
 ```
 
 
-La url del contenedor oficial es: https://hub.docker.com/r/procamora/cowrie/dockerfile
+La url del contenedor oficial es: https://hub.docker.com/r/cowrie/cowrie/
